@@ -1,0 +1,35 @@
+body {
+    background-color: #0e1117;
+    color: #fafafa;
+    font-family: "Segoe UI", sans-serif;
+}
+
+.header {
+    background: linear-gradient(135deg, #6e7cff, #9b5cff);
+    padding: 30px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 5px;
+}
+
+.header p {
+    font-size: 1.1rem;
+    opacity: 0.9;
+}
+
+.output-box {
+    background-color: #161b22;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: 4px solid #6e7cff;
+    margin-top: 20px;
+}
+
+.sidebar .sidebar-content {
+    background-color: #161b22;
+}
